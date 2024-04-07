@@ -1,0 +1,16 @@
+# Pycharm
+__pycache__/
+*.pyc
+
+# API
+api_key.json
+
+# Jupyter Notebbok
+.ipynb_checkpoints
+
+# Data
+*.parquet.brotli
+*.csv
+*.json
+*.pkl
+*.txt

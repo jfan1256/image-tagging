@@ -1,0 +1,2 @@
+# Fixes github language percentages
+*.ipynb -linguist-detectable
